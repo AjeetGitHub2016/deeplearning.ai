@@ -10,8 +10,8 @@ TAs: Kian Katanforoosh and Younes Mourri
 Learn How to build neural networks.                                                                                                   
 Learn how to lead successful machine learning projects.                                                                                
 Learn about Xavier/He initialization, Regularization, Dropout, Batch Normalization and Adam optimization and more.                         
-Learn about Convolutional networks, RNNs, LSTM and more. 
-Programming assignment from healthcare, autonomous driving, sign language reading, music generation, and natural language processing.  
+Learn about Convolutional networks, RNNs, LSTM and more.                                                                          
+Programming assignment from the areas of healthcare, autonomous driving, sign language reading, music generation, and natural language processing.  
 Programming assignments are in Python and in TensorFlow in Keras. 
 
 # Repository Structure
