@@ -18,5 +18,8 @@ Programming assignments are in Python and in TensorFlow in Keras.
 Course 1: Neural Networks and Deep Learning                                                                                               
 Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization                                           
 Course 3: Structuring Machine Learning Projects                                                                                           
-Course 4: Convolutional Neural Networks                                                                                                   
-Course 5: Sequence Models                                                                                                                 
+Course 4: Convolutional Neural Network(s) [Please ignore the submodule 4_Convolution Neural Networks]                                      
+Course 5: Sequence Models 
+
+# Repository Discription
+Each courses are divided into Week wise directories (Maximum upto Week4). This repositpory mainly contains the programming assignments which I have completed during the course. Main file of assignments is [.ipynb] jupyter notebook. [images] folder contains the images which are used in jupyter notebok. [.py] files are the helping scripts for particular assignment.
