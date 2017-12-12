@@ -22,4 +22,7 @@ Course 4: Convolutional Neural Network(s) [Please ignore the submodule 4_Convolu
 Course 5: Sequence Models 
 
 # Repository Discription
-Each courses are divided into Week wise directories (Maximum upto Week4). This repositpory mainly contains the programming assignments which I have completed during the course. Main file of assignments is [.ipynb] jupyter notebook. [images] folder contains the images which are used in jupyter notebok. [.py] files are the helping scripts for particular assignment.
+Each course is divided into Week wise directories (Maximum upto Week4). This repositpory mainly contains the programming assignments which I have completed during the course. Main file of assignments is [.ipynb] jupyter notebook. [images] folder contains the images which are used in jupyter notebok. [.py] files are the helping scripts for particular assignment. I have also uploaded quizes [.md] of few weeks.
+
+# Milestone
+Earned knowledge and Certifications
