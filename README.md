@@ -8,7 +8,7 @@ TAs: Kian Katanforoosh and Younes Mourri
 
 # My Learning From Course
 Learn How to build neural networks.                                                                                                   
-Learn how to lead successful machine learning projects.
+Learn how to lead successful machine learning projects.                                                                                
 Learn about Xavier/He initialization, Regularization, Dropout, Batch Normalization and Adam optimization and more.                         
 Learn about Convolutional networks, RNNs, LSTM and more. 
 Programming assignment from healthcare, autonomous driving, sign language reading, music generation, and natural language processing.  
