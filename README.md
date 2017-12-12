@@ -7,5 +7,7 @@ deeplearning.ai is the new course by Andrew Ng on Coursera. In Andrew Ng terms, 
 
 # Specilization details
 Website: https://www.deeplearning.ai/
+
 Instructor: Andrew Ng (http://www.andrewng.org/)
+
 TAs: Kian Katanforoosh and Younes Mourri
